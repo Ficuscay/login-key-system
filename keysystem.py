@@ -16,4 +16,5 @@ if quekey != "12345":
 #Good login if key valid
 elif quekey == "12345":
 	print("Successful Login")
+	input()
 	#Continiue code...
